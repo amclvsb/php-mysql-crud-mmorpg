@@ -6,3 +6,7 @@ Happiness → Training Efficiency
 Stats → Combat Probability
 Respect → Faction Power
 Money → Items → Efficiency
+
+
+## How to use ##
+mysql -u youruser -p yourdatabase < schema.sql
