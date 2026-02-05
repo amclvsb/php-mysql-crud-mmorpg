@@ -1,5 +1,5 @@
 <?php
-
+/* BEGIN */
 interface CrimeResultInterface
 {
     public function isSuccess(): bool;
